@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @heysomnath
-- 👀 I’m interested in growth & maketing and saas products
-- 🌱 I’m currently learning growth
-- 💞️ I’m looking to collaborate on reach out to developers
-- 📫 How to reach me 
+- 👀 I talk content, community, marketing and stories of all kind
+- 🌱 I’m currently growing LearnApp
+- 💞️ Here to meet developers with 3rd eye
+- 📫 
 
 <!---
 heysomnath/heysomnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
