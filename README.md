@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heysomnath
 - 👀 I talk content, community, marketing and stories of all kind
-- 🌱 I’m currently growing LearnApp
+- 🌱 Currently growing LearnApp
 - 💞️ Here to meet developers with 3rd eye
 - 📫 
 
